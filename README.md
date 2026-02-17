@@ -1,7 +1,7 @@
 # 🧠 Nexus Grid  
 ## AI Pathfinding Visualizer
 
-**Author:** Ahmad Farooq  
+**Author:** Ahmad Farooq  and Tanzeel Shazad
 **Course:** Artificial Intelligence  
 **Project Type:** Uninformed Search Algorithm Visualizer  
 
@@ -92,5 +92,4 @@ These features allow performance comparison across algorithms.
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/nexus-grid.git
-cd nexus-grid
+
